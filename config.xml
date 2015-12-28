@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.bant" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.phonegap.organizeme" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Organize ME</name>
     <description>
-        Plataforma de organizacion y gestión de trabajos para diseñadores freelance.
+        Plataforma de organizacion y gestiÃ³n de trabajos para diseÃ±adores freelance.
     </description>
     <author email="florencia.ekizian@gmail.com" href="http://organizeme.com.ar/">
        Lean Amaro.
